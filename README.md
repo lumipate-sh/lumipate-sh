@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my corner
+
+Digital enthusiast, analogue creative
+
+_Dev@Upskill_
 
 <!--
 **lumipate-sh/lumipate-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
