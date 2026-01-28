@@ -1,6 +1,6 @@
 ## Welcome to my corner
 
-Digital enthusiast, analogue creative
+Digital enthusiast, analog creative
 
 _Dev@Upskill_
 
